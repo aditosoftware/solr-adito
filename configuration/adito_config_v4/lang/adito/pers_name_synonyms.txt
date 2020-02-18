@@ -1,4 +1,0 @@
-Dr. => Doctor
-Prof. => Professor
-Hr. => Herr
-Fr. => Frau
