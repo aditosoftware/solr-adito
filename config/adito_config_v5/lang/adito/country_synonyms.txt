@@ -1,0 +1,234 @@
+AF, AFG, Afghanistan
+AL, ALB, Albania, Albanien
+DZ, DZA, Algeria, Algerien
+AS, ASM, American Samoa, Amerikanisch-Samoa
+AD, AND, Andorra
+AO, AGO, Angola
+AI, AIA, Anguilla
+AQ, ATA, Antarctica, Antarktis
+AG, ATG, Antigua and Barbuda, Antigua und Barbuda
+AR, ARG, Argentina, Argentinien
+AM, ARM, Armenia, Armenien
+AW, ABW, Aruba
+AU, AUS, Australia, Australien
+AT, AUT, Austria, Österreich
+AZ, AZE, Azerbaijan, Aserbaidschan
+BS, BHS, Bahamas
+BH, BHR, Bahrain
+BD, BGD, Bangladesh, Bangladesch
+BB, BRB, Barbados
+BY, BLR, Belarus
+BE, BEL, Belgium, Belgien
+BZ, BLZ, Belize
+BJ, BEN, Benin
+BM, BMU, Bermuda
+BT, BTN, Bhutan
+BO, BOL, Bolivia, Bolivien
+BA, BIH, Bosnia and Herzegovina, Bosnien und Herzegowina
+BW, BWA, Botswana
+BR, BRA, Brazil, Brasilien
+IO, IOT, British Indian Ocean Territory, Britisches Territorium im Indischen Ozean
+VG, VGB, British Virgin Islands, Britische Jungferninseln
+BN, BRN, Brunei
+BG, BGR, Bulgaria, Bulgarien
+BF, BFA, Burkina Faso
+MM, MMR, Burma, Myanmar, Burma (Myanmar), Birma, Myanmar, Burma (Myanmar)
+BI, BDI, Burundi
+KH, KHM, Cambodia, Kambodscha
+CM, CMR, Cameroon, Kamerun
+CA, CAN, Canada, Kanada
+CV, CPV, Cape Verde, Kap Verde, Lebenslauf
+KY, CYM, Cayman Islands, Kaimaninseln
+CF, CAF, Central African Republic, Zentralafrikanische Republik
+TD, TCD, Chad
+CL, CHL, Chile
+CN, CHN, China
+CX, CXR, Christmas Island, Weihnachtsinsel
+CC, CCK, Cocos Islands, Keeling Islands, Cocos (Keeling) Islands, Kokosinseln, Keelinginseln, Kokosinseln (Keelinginseln)
+CO, COL, Colombia, Kolumbien
+KM, COM, Comoros, Komoren
+CK, COK, Cook Islands, Cookinseln
+CR, CRC, Costa Rica
+HR, HRV, Croatia, Kroatien
+CU, CUB, Cuba, Kuba
+CY, CYP, Cyprus, Zypern
+CZ, CZE, Czech Republic, Tschechische Republik
+CD, COD, Democratic Republic of the Congo, DR Congo, Demokratische Republik Kongo, DR Kongo
+DK, DNK, Denmark, Dänemark
+DJ, DJI, Djibouti, Dschibuti
+DM, DMA, Dominica
+DO, DOM, Dominican Republic, Dominikanische Republik
+EC, ECU, Ecuador
+EG, EGY, Egypt, Ägypten
+SV, SLV, El Salvador
+GQ, GNQ, Equatorial Guinea, Äquatorialguinea
+ER, ERI, Eritrea
+EE, EST, Estonia, Estland
+ET, ETH, Ethiopia, Äthiopien
+FK, FLK, Falkland Islands, Falklandinseln
+FO, FRO, Faroe Islands, Färöer
+FJ, FJI, Fiji, Fidschi
+FI, FIN, Finland, Finnland
+FR, FRA, France, Frankreich
+PF, PYF, French Polynesia, Französisch-Polynesien
+GA, GAB, Gabon, Gabun
+GM, GMB, Gambia
+GE, GEO, Georgia
+DE, DEU, Germany, Deutschland
+GH, GHA, Ghana
+GI, GIB, Gibraltar
+GR, GRC, Greece, Griechenland
+GL, GRL, Greenland, Grönland
+GD, GRD, Grenada
+GU, GUM, Guam
+GT, GTM, Guatemala
+GN, GIN, Guinea
+GW, GNB, Guinea-Bissau
+GY, GUY, Guyana
+HT, HTI, Haiti
+VA, VAT, Holy See, Vatican City, Holy See (Vatican City), Heiliger Stuhl, Vatikanstadt, Heiliger Stuhl (Vatikanstadt)
+HN, HND, Honduras
+HK, HKG, Hong Kong
+HU, HUN, Hungary, Ungarn
+Iceland, IS, Island
+IN, IND, India, Indien
+ID, IDN, Indonesia, Indonesien
+IR, IRN, Iran
+IQ, IRQ, Iraq, Irak
+IE, IRL, Ireland, Irland
+IM, IMN, Isle of Man
+IL, ISR, Israel
+IT, ITA, Italy, Italien
+CI, CIV, Ivory Coast, Elfenbeinküste
+JM, JAM, Jamaica
+JP, JPN, Japan
+JE, JEY, Jersey
+JO, JOR, Jordan
+KZ, KAZ, Kazakhstan, Kasachstan
+KE, KEN, Kenya, Kenia
+KI, KIR, Kiribati
+KW, KWT, Kuwait
+KG, KGZ, Kyrgyzstan, Kirgisistan
+LA, LAO, Laos
+LV, LVA, Latvia, Lettland
+LB, LBN, Lebanon, Libanon
+LS, LSO, Lesotho
+LR, LBR, Liberia
+LY, LBY, Libya, Libyen
+LI, LIE, Liechtenstein
+LT, LTU, Lithuania, Litauen
+LU, LUX, Luxembourg, Luxemburg
+MO, MAC, Macau
+MK, MKD, Macedonia, Mazedonien
+MG, MDG, Madagascar, Madagaskar
+MW, MWI, Malawi
+MY, MYS, Malaysia
+MV, MDV, Maldives, Malediven
+ML, MLI, Mali
+MT, MLT, Malta
+MH, MHL, Marshall Islands, Marshallinseln
+MR, MRT, Mauritania, Mauretanien
+MU, MUS, Mauritius
+YT, MYT, Mayotte
+MX, MEX, Mexico, Mexiko
+FM, FSM, Micronesia, Mikronesien
+MD, MDA, Moldova, Moldawien
+MC, MCO, Monaco
+MN, MNG, Mongolia, Mongolei
+ME, MNE, Montenegro
+MS, MSR, Montserrat
+MA, MAR, Morocco, Marokko
+MZ, MOZ, Mozambique, Mosambik
+NA, NAM, Namibia
+NR, NRU, Nauru
+NP, NPL, Nepal
+NL, NLD, Netherlands, Niederlande
+AN, ANT, Netherlands Antilles, Niederländische Antillen
+NC, NCL, New Caledonia, Neukaledonien
+NZ, NZL, New Zealand, Neuseeland
+NI, NIC, Nicaragua
+NE, NER, Niger
+NG, NGA, Nigeria
+NU, NIU, Niue
+Norfolk Island,, NFK, Norfolk Island
+KP, PRK, North Korea, Nordkorea
+MP, MNP, Northern Mariana Islands, Nördliche Marianen
+NO, NOR, Norway, Norwegen
+OM, OMN, Oman
+PK, PAK, Pakistan
+PW, PLW, Palau
+PA, PAN, Panama
+PG, PNG, Papua New Guinea, Papua-Neuguinea
+PY, PRY, Paraguay
+PE, PER, Peru
+PH, PHL, Philippines, Philippinen
+PN, PCN, Pitcairn Islands
+PL, POL, Poland, Polen
+PT, PRT, Portugal
+PR, PRI, Puerto Rico
+QA, QAT, Qatar, Katar
+CG, COG, Republic of the Congo Republic, Congo-Brazzaville, Republik Kongo Republik, Kongo-Brazzaville
+RO, ROU, Romania, Rumänien
+RU, RUS, Russia, Russland
+RW, RWA, Rwanda, Ruanda
+BL, BLM, Saint Barthelemy, Heiliger Barthelemy
+SH, SHN, Saint Helena
+KN, KNA, Saint Kitts and Nevis, St. Kitts und Nevis
+LC, LCA, Saint Lucia, St. Lucia
+MF, MAF, Saint Martin
+PM, SPM, Saint Pierre and Miquelon, Saint Pierre und Miquelon
+VC, VCT, Saint Vincent and the Grenadines, St. Vincent und die Grenadinen
+WS, WSM, Samoa
+SM, SMR, San Marino
+ST, STP, Sao Tome and Principe, Sao Tome und Principe
+SA, SAU, Saudi Arabia, Saudi-Arabien
+SN, SEN, Senegal
+RS, SRB, Serbia, Serbien
+SC, SYC, Seychelles, Seychellen
+SL, SLE, Sierra Leone
+SG, SGP, Singapore, Singapur
+SK, SVK, Slovakia, Slowakei
+SI, SVN, Slovenia, Slowenien
+SB, SLB, Solomon Islands, Salomonen
+SO, SOM, Somalia
+ZA, ZAF, South Africa, Südafrika
+KR, KOR, South Korea, Südkorea
+ES, ESP, Spain, Spanien
+LK, LKA, Sri Lanka
+SD, SDN, Sudan
+SR, SUR, Suriname
+SJ, SJM, Svalbard
+SZ, SWZ, Swaziland, Swasiland
+SE, SWE, Sweden, Schweden
+CH, CHE, Switzerland, Schweiz
+SY, SYR, Syria, Syrien
+TW, TWN, Taiwan
+TJ, TJK, Tajikistan, Tadschikistan
+TZ, TZA, Tanzania, Tansania
+TH, THA, Thailand
+TL, TLS, Timor-Leste
+TG, TGO, Togo
+TK, TKL, Tokelau
+TO, TON, Tonga
+TT, TTO, Trinidad and Tobago, Trinidad und Tobago
+TN, TUN, Tunisia, Tunesien
+TR, TUR, Turkey, Türkei
+TM, TKM, Turkmenistan
+TC, TCA, Turks and Caicos Islands, Turks- und Caicosinseln
+TV, TUV, Tuvalu
+UG, UGA, Uganda
+UA, UKR, Ukraine
+AE, ARE, United Arab Emirates, Vereinigte Arabische Emirate
+GB, GBR, United Kingdom, Vereinigtes Königreich
+US, USA, United States of America, Vereinigte Staaten von Amerika
+UY, URY, Uruguay
+VI, VIR, US Virgin Islands, Amerikanische Jungferninseln
+UZ, UZB, Uzbekistan, Usbekistan
+VU, VUT, Vanuatu
+VE, VEN, Venezuela
+VN, VNM, Vietnam
+WF, WLF, Wallis and Futuna, Wallis und Futuna
+EH, ESH, Western Sahara, Westsahara
+YE, YEM, Yemen, Jemen
+ZM, ZMB, Zambia, Sambia
+ZW, ZWE, Zimbabwe, Simbabwe
