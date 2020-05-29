@@ -9,6 +9,4 @@ ADD ./config/adito_config_v4/ /opt/solr/server/solr/configsets/adito_config_v4/
 ADD ./config/adito_config_v5/ /opt/solr/server/solr/configsets/adito_config_v5/
 ADD ./plugin/lang-detection-plugin-1.4.2.jar/ /opt/solr/contrib/langid/lib/lang-detection-plugin-1.4.2.jar
 
-RUN chmod +x /a/start.sh
-
-CMD /a/start.sh
+CMD /bin/sh -c /a/start.sh
