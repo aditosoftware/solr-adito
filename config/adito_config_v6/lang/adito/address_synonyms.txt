@@ -1,0 +1,168 @@
+Str. => Straße
+Pl. => Platz
+A. => An,Auf
+I. => In
+d. => der,dem
+Bgm => Bürgermeister
+Röm. => Römisch
+Br. => Brücke
+Ob. => Obere,Oberer,Oberes
+Gr. => Große
+U => Untere,Unterer,Unteres
+Ü. => Über
+V. => Von
+St. => Sankt
+II. => Zweite
+III. => Dritte
+Z. => Zum
+
+# adress sufix synonyms
+#
+allee, alley, ally, aly
+annex, anex, annx, anx
+arcade, arc
+avenue, av, ave, aven, avenu, avn, avnue
+bayoo, bayou, byu
+beach, bch
+bend, bnd
+burg, bg, burgs, bgs
+bluff, blf, bluf, bluffs, blfs
+bottom, bot, btm, bottm
+boulevard, blvd, boul, boulv
+branch, br, brnch
+bridge, brdge, brg
+brook, brk, brooks, brks
+bypass, byp, bypa, bypas, byps
+camp, cp, cmp
+canyon, canyn, cnyn, cyn
+cape, cpe
+causeway, causwa, cswy
+center, cen, cent, centr, centre, centers, cnter, cntr, ctr, ctrs
+circle, cir, circ, circl, crcl, crcle, circles, cirs
+cliff, clf, cliffs, clfs
+club, clb
+common, cmn, commons, cmns
+corner, cor, corners, cors
+course, crse
+court, ct, courts, cts
+cove, cv, coves, cvs
+creek, crk
+crescent, cres, crsent, crsnt
+crest, crst
+crossing, crssng, xing
+crossroad, crossroads, xrd, xrds
+curve, curv
+dale, dl
+dam, dm
+divide, div, dv, dvd
+drive, dr, driv, drives, drs, drv
+estate, est, estates, ests
+expressway, exp, expr, express, expw, expy
+extension, ext, extn, extnsn, extensions, exts
+fall, falls, fls
+ferry, frry, fry
+field, fld, fields, flds
+flat, flt, flats, flts
+ford, frd, fords, frds
+forest, forests, frst
+forge, forg, frg, forges, frgs
+fork, frk, forks, frks
+fort, frt, ft
+freeway, freewy, frway, frwy, fwy
+garden, gardn, grden, grdn, gdn, gardens, gdns, grdns
+gateway, gatewy, gatway, gtway, gtwy
+glen, gln, glens, glns
+green, grn, greens, grns
+grove, grov, grv, groves, grvs
+harbor, harb, harbr, hbr, hrbor, harbors, hbrs
+haven, hvn
+heights, ht, hts
+highway, highwy, hiway, hiwy, hway, hwy
+hill, hl, hills, hls
+hollow, hllw, holw, hollows, holws
+inlet, inlt
+island, is, islnd, islands, islnds, iss
+isle, isles
+junction, jct, jction, jctn, junctn, juncton, junctions, jctns, jcts
+key, ky, keys, kys
+knoll, knol, knl, knolls, knls
+lake, lk, lakes, lks
+landing, lndg, lndng
+lane, ln
+light, lgt, lights, lgts
+loaf, lf
+lock, lck, locks, lcks
+lodge, lodg, ldg, ldge
+loop, loops
+manor, mnr, manors, mnrs
+meadow, mdw, meadows, mdws, medows
+mill, ml, mills, mls
+mission, missn, msn, mssn
+motorway, mtwy
+mount, mnt, mt
+mountain, mntain, mntn, mountin, mtin, mtn, mountains, mtns, mntns
+neck, nck
+orchard, orch, orchrd
+oval, ovl
+overpass, opas
+park, prk, parks
+parkway, parkwy, pkway, pkwy, pky, parkways, pkwys
+passage, psge
+path, paths
+pike, pikes
+pine, pne, pines, pnes
+place, pl,
+plain pln, plains, plns
+plaza, plz, plza
+point, pt, points, pts
+port, prt, ports, prts
+prairie, pr, prr
+radial, rad, radiel, radl
+ranch, ranches, rnch, rnchs
+rapid, rpd, rapids, rpds
+rest, rst
+ridge, rdg, rdge, ridges, rdgs
+river, rivr, riv, rvr
+road, rd, roads, rds
+route, rte
+shoal, shl, shoals, shls
+shore, shoar, shr, shoars, shores, shrs
+skyway, skwy
+spring, spg, spng, sprng, springs, spgs, spngs, sprngs
+spur, spurs
+square, sq, sqr, sqre, squ, squares, sqrs, sqs
+station, sta, statn, stn
+stravenue, stra, strav, straven, stravn, strvn, strvnue
+stream, streme, strm
+street, st, str, strt, streets, sts, stra�e, strasse
+summit, sumit, sumitt, smt
+terrace, ter, terr
+throughway, trwy
+trace, traces, trce
+track, tracks, trak, trk, trks
+trafficway, trfy
+trail, trails, trl, trls,
+trailer, trlr, trlrs
+tunnel, tunnels, tunel, tunl, tunls, tunnl
+turnpike, trnpk, turnpk, tpke
+underpass, upas
+union, un, unions, uns
+valley, vally, vlly, vly, valleys, vlys
+viaduct, vdct, via, viadct
+view, vw, views, vws
+village, vill, villag, villg, villiage, vlg, villages, vlgs
+ville, vl
+vista, vis, vist, vst, vsta
+walk, walks
+way, wy, ways
+well, wl, wells, wls
+#
+# city synonyms
+new york city, new york, nyc, ny
+#
+# country synonyms
+ger, de, germany, deutschland
+us, usa, america, amerika
+en, eng, england, britain
+fr, fra, france, frankreich
+
