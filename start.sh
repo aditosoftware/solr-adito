@@ -1,16 +1,22 @@
 #!/bin/bash
-load_config(){
+load_config() {
   echo "Waiting for Zookeeper to launch on 9983"
   while ! nc localhost 9983; do
     sleep 4
     echo "Waiting for Zookeeper to launch on 9983"
   done
-  solr zk upconfig -z localhost:9983 -n adito_config_v2 -d /opt/solr/server/solr/configsets/adito_config_v2&
-  solr zk upconfig -z localhost:9983 -n adito_config_v3 -d /opt/solr/server/solr/configsets/adito_config_v3&
-  solr zk upconfig -z localhost:9983 -n adito_config_v4 -d /opt/solr/server/solr/configsets/adito_config_v4&
-  solr zk upconfig -z localhost:9983 -n adito_config_v5 -d /opt/solr/server/solr/configsets/adito_config_v5&
-  solr zk upconfig -z localhost:9983 -n adito_config_v6 -d /opt/solr/server/solr/configsets/adito_config_v6&
+  existing_configsets=$(curl http://localhost:8983/solr/admin/configs?action=LIST)
+  echo existing configsets: $existing_configsets
+  for d in $( ls /opt/solr/server/solr/configsets/); do
+    if ! echo "$existing_configsets" | grep -q $d; then
+      echo upload $d
+      solr zk upconfig -z localhost:9983 -n $d -d /opt/solr/server/solr/configsets/$d &
+    else 
+      echo $d already present
+    fi
+  done
 }
+
 load_config&
 
 USERID=$(id -u)
@@ -19,4 +25,4 @@ then
 gosu solr solr-foreground -c
 else
 solr-foreground -c
-fi
+fi	
