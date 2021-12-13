@@ -2,6 +2,7 @@ FROM solr:8.4.0
 
 EXPOSE 8983 9983
 
+COPY ./solr_conf/solr.in.sh /etc/default/solr.in.sh
 ADD ./start.sh /a/start.sh
 ADD ./config/adito_config_v2/ /opt/solr/server/solr/configsets/adito_config_v2/
 ADD ./config/adito_config_v3/ /opt/solr/server/solr/configsets/adito_config_v3/
