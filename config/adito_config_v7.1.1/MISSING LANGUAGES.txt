@@ -1,0 +1,23 @@
+MISSING LANGUAGES in INDEX/SOLR
+
+Mapped to cjk fieldType
+zh Chinese + => cjk (langDetec zh-cn, zh-tw)
+ko Korean + => cjk
+
+mapped to dummy field with text_general
+be Belarusian
+hr Croatian +
+in Indonesian 
+is Icelandic
+lt Lithuanian +
+mk Macedonian +
+ms Malay
+mt Maltese 
+nb Norwegian Bokmål
+nn Norwegian Nynorsk 
+sk Slovak +
+sl Slovenian + 
+sq Albanaien +
+sr Serbian
+uk Ukrainian  +
+vi Vietnamese  +
