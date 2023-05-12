@@ -1,0 +1,6 @@
+{
+  "ADITO.schema.version":7,
+  "ADITO.schema.baseConfigSet":"adito_config_v7.1.1",
+  "ADITO.config.version":"7.0.1",
+  "ADITO.schema.version.build":"7.1.1"
+}
